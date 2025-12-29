@@ -15,5 +15,5 @@
 本專案主要運行於 **Google Colab** 環境，建議使用 GPU 進行加速訓練。
 
 * **Python** 版本: 使用Python最新版本
-* **GPU使用**: NVIDIA L4 / T4 GPU (CUDA 12.4) 
+* **GPU使用**: NVIDIA L4 / T4 GPU 
 * **主要框架**: [Ultralytics](https://github.com/ultralytics/ultralytics) (YOLOv12) 
